@@ -1,0 +1,15 @@
+{
+  "name": "animation-engine",
+  "version": "1.0.0",
+  "description": "动画引擎调研",
+  "main": "index.js",
+  "repository": "https://github.com/xdyushenli/animation-engine.git",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "pixi": "^0.3.1"
+  }
+}
