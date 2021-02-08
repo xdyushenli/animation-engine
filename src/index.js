@@ -1,10 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Pixi from './pixi';
 
 const App = () => {
     return (
-        <Pixi />
+        <div></div>
     );
 }
 
